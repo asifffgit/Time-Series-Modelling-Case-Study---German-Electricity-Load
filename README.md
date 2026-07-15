@@ -85,7 +85,6 @@ outputs/figures/error_diagnostics.png
 - **Benchmarks:** Mean, Naive, Seasonal Naive, Drift.
 - **SARIMAX:** seasonal ARIMA model with weekly seasonality, using temperature as an exogenous input.
 - **Feature-based:** Random Forest using lag, rolling, calendar, holiday, and temperature features.
-- **Bayesian:** Bayesian regression with posterior predictive intervals.
 - **Neural:** LSTM trained on hourly data.
 
 ## Evaluation
